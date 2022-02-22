@@ -411,3 +411,10 @@ Author Information
 
 [http://www.tauceti.blog](http://www.tauceti.blog)
 
+
+How to use
+------------------
+
+1. Install Ansible
+2. Update the private key path in inventory.yml
+3. Command to run: ansible-playbook -i inventory.yml playbook.yml
